@@ -1,27 +1,12 @@
-# :desktop_computer: React application tutors
+# :desktop_computer: Movielia
 
-## :briefcase: Stacks
+## :fire: Run
 
-- JavaScript/TypeScript
-- React/NextJs
-- Mongo/noSQL
-- Node/Express
+- Web Development (Port 3000): `yarn dev`
 
-## :hammer: Tools
+## :triangular_flag_on_post: Environment Variables
 
-- Git/NodeJs/VSCode/Yarn
+### Web Variables
 
-## :unicorn: Author
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/higoreduardomkt">
-        <img src="https://avatars.githubusercontent.com/u/143273277?u=bf519cbf613da3ddab8cffa2fd9b2f428659d34e&v=4" width="100px;" alt="Foto do Higor Eduardo no GitHub"/><br>
-        <sub>
-          <b>Higor Eduardo</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+- Server Address: `VITE_SERVER_URL`
+- Serverkey: `VITE_SERVER_KEY`
